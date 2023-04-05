@@ -1,8 +1,8 @@
 # Helena Hundhausen User Page
  
 Page's Table of Contents 
-- (Introduction)[##Introduction]
-- (Code Background) [##CodeBackground]
+- (Introduction)[##introduction]
+- (Code Background) [##code-background]
 - Personal Background
 
 ## Introduction 
