@@ -15,5 +15,5 @@
 5. **commit** the files with the commit message "Update readme file"
 ![](stepfive.png) 
 
-6. **push** the commit to the remote brnach
+6. **push** the commit to the remote branch
 ![](stepsix.png)  
