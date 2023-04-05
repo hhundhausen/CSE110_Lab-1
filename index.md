@@ -1,13 +1,12 @@
-# Helena Hundhausen 
+# Helena Hundhausen User Page
  
-Table Of Contents 
-- Introduction 
-- Code Background
+Page's Table of Contents 
+- (Introduction)[##Introduction]
+- (Code Background) [##CodeBackground]
 - Personal Background
 
 ## Introduction 
 Hi, my name is Helena Hundhausen! Welcome to my user-page where I introduce who I am as a programmer and person. Feel free to explore, to learn more about me : )
-
 
 ## Code Background 
 I began coding in high school by taking computer science courses at a local community college courses called MiraCosta. I really enjoyed the content of my computer science courses, and realized that I wanted to puruse it as a career. Since then, I have gained a strong passion for math, software engineering, and embedded systems. 
