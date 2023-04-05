@@ -1,24 +1,33 @@
 # Helena Hundhausen 
--- 
+ 
 Table Of Contents 
-- [Introduction](Introduction)
-- 
+- Introduction 
+- Code Background
+- Personal Background
 
 ## Introduction 
-Hello, my name is Helena! I am from Honolulu, Hawaii, and moved to San Diego, California in seventh grade to be closer to my extended family. I started my coding journey in high school by attending computer science courses at a community college called MiraCosta. Since then, I have grown a passion for math, embedded systems, and software engineering. 
+Hi, my name is Helena Hundhausen! Welcome to my user-page where I introduce who I am as a programmer and person. Feel free to explore, to learn more about me : )
 
-## Personal Pictures 
+
+## Code Background 
+I began coding in high school by taking computer science courses at a local community college courses called MiraCosta. I really enjoyed the content of my computer science courses, and realized that I wanted to puruse it as a career. Since then, I have gained a strong passion for math, software engineering, and embedded systems. 
+
+The first ever program I created was in java, and it was... 
+
+
+
+
+## Personal Background
+I was born and raised in Honolulu, Hawaii until my parents and I moved to San Diego, California in seventh grade to be closer to family. 
 
 ## My Dog 
 
-## Courses 
 
 
 
 requirements
 
 - Pictures
-- Headings
 - Styling text
 - Quoting text
 - Quoting code
