@@ -26,6 +26,7 @@ Hello👋 , my name is **Helena Hundhausen**; welcome to my user page! I am a se
 ## Personal Background 
 I was born and rasied in *Honolulu, Hawaii*, until seventh grade my parents and I moved to *San Diego, California* to be closed to family. Although, I miss Hawaii, I have grown a great appreciation for California and prefer it more. In my free time, I love to spend time with my parents, drink iced-coffee, hike with my dog, and read. 
 
+I am a **huge** coffee drinker. I have tried a lot of local San Diego Cofee Shops, and my favorite has been a shop called [Lofty Coffee Company](https://loftycoffee.com/pages/encinitas). I like Lofty Coffee Company, because they make the best [crossiants](https://www.istockphoto.com/photos/croissant) and [iced lattes](https://www.istockphoto.com/search/2/image?phrase=iced%20latte). 
 
 During Summer 2022, I grew a huge obession with reading and read *thirty* books (admittedly all were fiction). Written below is a quote from one of my favorite books that I read over that particular summer titled *Ignite Me* by Tahereh Mafi. 
 > "Books are easily destroyed. But words will live as long as people can remember them." - from Ignite Me by Tahereh Mafi  
@@ -126,7 +127,7 @@ Page includes the following **Markdown** features
 - Ordered and Unordered Lists
 - Task lists
 - Section links
+- External Links
 
 not done : 
-- External Links
 - Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
