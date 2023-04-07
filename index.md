@@ -66,6 +66,8 @@ I have a lot of courses to take at **UCSD**, since I am in *Warren College* and 
 - [X] CSE 193
 - [X] CSE 198
 - [X] CSE 198
+- [X] CSE 198
+- [X] CSE 193
 - [X] EDS124AR 
 - [X] Math 20A 
 - [X] Math 20B 
@@ -82,9 +84,10 @@ I have a lot of courses to take at **UCSD**, since I am in *Warren College* and 
 - [ ] CSE 130 
 - [ ] CSE 107 
 - [ ] CSE 150A
-- [ ] CSE 193 
-- [ ] CSE Elective 
-- [ ] CSE Elective 
+- [ ] CSE 190
+- [ ] CSE 194
+- [ ] CSE 109
+- [ ] CSE 142 
 - [ ] Math 183 
 
 **Warren College** coures I have completed and need to complete: 
