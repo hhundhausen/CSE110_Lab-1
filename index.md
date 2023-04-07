@@ -127,10 +127,12 @@ Here is an ordered list of my top three favorite programming lanauges :
 ## Photo Collage 
 <img src="https://user-images.githubusercontent.com/97565624/230266359-bd974972-d6b4-422d-9600-8a5061523d60.jpg" alt= “” width="330" height="330"> <img src="https://user-images.githubusercontent.com/97565624/230268034-c1df42d7-6b40-4ef5-88c6-debf44d26a8d.jpg" alt= “” width="330" height="330"> <img src="https://user-images.githubusercontent.com/97565624/230266682-8f49e12b-a376-4ba3-b256-089aa875b6ce.jpg" alt= “” width="330" height="330">
 
-<img src="https://user-images.githubusercontent.com/97565624/230268259-a4831b3d-b028-4e89-9b0d-274b47fb5291.JPG" alt= “” width="330" height="330"> <img src="https://user-images.githubusercontent.com/97565624/230268423-19134327-f9c5-45f2-91cc-31cff2c627a4.png" alt= “” width="330" height="330"> <img src="https://user-images.githubusercontent.com/97565624/230268994-f10fddfe-18df-4d67-9962-83fd14e6f7cd.jpg" alt= “” width="330" height="330">
 
-![](https://user-images.githubusercontent.com/97565624/230627200-e04b750e-5c38-436d-b680-e3243e4e9e75.png)
-<img width="216" alt="dog" src="https://user-images.githubusercontent.com/97565624/230627200-e04b750e-5c38-436d-b680-e3243e4e9e75.png">
+
+<img width="330" alt="dog" src="https://user-images.githubusercontent.com/97565624/230627200-e04b750e-5c38-436d-b680-e3243e4e9e75.png"> <img width="330" alt="dog" src="https://user-images.githubusercontent.com/97565624/230268259-a4831b3d-b028-4e89-9b0d-274b47fb5291.JPG"> 
+
+<img width="340" alt="dog" src="https://user-images.githubusercontent.com/97565624/230268423-19134327-f9c5-45f2-91cc-31cff2c627a4.png"> <img width="340" alt="dog" src="https://user-images.githubusercontent.com/97565624/230268994-f10fddfe-18df-4d67-9962-83fd14e6f7cd.jpg"> 
+
 
 ## Features
 Page includes the following **Markdown** features 
