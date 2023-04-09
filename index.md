@@ -120,11 +120,10 @@ Here is an ordered list of my top three favorite cuisines :
 
 ### Programming Languages 
 Here is an ordered list of my top three favorite programming lanauges :
-1. Java 
-2. C++ 
-3. C 
+1. [Java](https://github.com/hhundhausen/CSE110_Lab-1/blob/main/java.md) 
+2. [C++](https://github.com/hhundhausen/CSE110_Lab-1/blob/main/c%2B%2B.md)
+3. [C](https://github.com/hhundhausen/CSE110_Lab-1/blob/main/c.md) 
 
-[link](https://github.com/hhundhausen/CSE110_Lab-1/blob/main/test.md)
 
 ## Photo Collage 
 <img width="290" height ="290" alt="dog" src="https://user-images.githubusercontent.com/97565624/230627200-e04b750e-5c38-436d-b680-e3243e4e9e75.png"> <img width="300" height ="290" alt="dog" src="https://user-images.githubusercontent.com/97565624/230268423-19134327-f9c5-45f2-91cc-31cff2c627a4.png"> <img width="300" height ="290" alt="dog" src="https://user-images.githubusercontent.com/97565624/230268994-f10fddfe-18df-4d67-9962-83fd14e6f7cd.jpg"> 
