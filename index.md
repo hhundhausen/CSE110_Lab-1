@@ -28,7 +28,7 @@ I was born and rasied in *Honolulu, Hawaii*, until seventh grade my parents and 
 
 In my free time, I love to spend time with my parents, drink iced-coffee, hike with my dog, and read.
 
-I am a **huge** coffee drinker. I enjoy the taste of coffeee as much as the caffine it provides. I have tried a lot of local San Diego Coffee Shops, and my ulitmate favorite is a shop called [Lofty Coffee Company](https://loftycoffee.com/pages/encinitas). I like Lofty Coffee Company, because they make the best [crossiants](https://www.istockphoto.com/photos/croissant) and [iced lattes](https://www.istockphoto.com/search/2/image?phrase=iced%20latte). 
+I am a **huge** coffee drinker. I enjoy the taste of coffee as much as the caffine it provides. I have tried a lot of local San Diego Coffee Shops, and my ulitmate favorite is a shop called [Lofty Coffee Company](https://loftycoffee.com/pages/encinitas). I like Lofty Coffee Company, because they make the best [crossiants](https://www.istockphoto.com/photos/croissant) and [iced lattes](https://www.istockphoto.com/search/2/image?phrase=iced%20latte). 
 
 During Summer 2022, I grew a huge obession with reading and read *thirty* books (admittedly all were fiction). Written below is a quote from one of my favorite books that I read over that particular summer titled *Ignite Me* by Tahereh Mafi. 
 > "Books are easily destroyed. But words will live as long as people can remember them." - from Ignite Me by Tahereh Mafi  
@@ -49,8 +49,6 @@ I have gaind experiences in the technical tools:
 * GitHub 
 * MatLab
 * LaTeX 
-
-
 
 ## UCSD Courses 
 I have a lot of courses to take at **UCSD**, since I am in *Warren College* and a *computer science* major. 
