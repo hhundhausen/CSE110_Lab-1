@@ -145,6 +145,4 @@ Page includes the following **Markdown** features
 - Task lists
 - Section links
 - External Links
-
-not done : 
-- Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- Relative Links (link to another .md file in repo
