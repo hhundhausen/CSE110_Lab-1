@@ -1,0 +1,1 @@
+I love java, because of its simplicity. Its very easy to learn and understand. If there is a bug, it is easy to find and fix. It was the first lanauge I learned and helped craft my love for programming. 
