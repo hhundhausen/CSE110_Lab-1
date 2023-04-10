@@ -18,7 +18,7 @@ Hello👋 , my name is **Helena Hundhausen**; welcome to my user page! I am a se
  ``` 
  public class welcome {
   public static void main(String args[]) {
-    system.out.println("Welcome Viewer!); 
+    System.out.println("Welcome Viewer!); 
   }
  }
  ```
@@ -45,7 +45,7 @@ I have gained experiences in the programming languages:
 
 I have gaind experiences in the technical tools: 
 * Replit 
-* VSCode 
+* VS Code 
 * GitHub 
 * MatLab
 * LaTeX 
